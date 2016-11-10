@@ -40,6 +40,15 @@ React Native App | [Build Cross Platform React Native Apps with Exponent and Red
 
 After follow along the path, you could go further by reading through the source code of React project on [github](https://github.com/facebook/react). Also if you need help, React team has an awesome [support](https://facebook.github.io/react/support.html).
 
+## Community
+
+Topic            | Resource                                                  | Description
+:--              | :--                                                       | :--
+Discord Group    | [Reactiflux Discord](https://discord.gg/0ZcbPKXt5bZjGY5n) | React Discord group officialy supported by Facebook
+Twitter Channel  | [React @reactjs](https://twitter.com/reactjs)             | React Team is pretty frequent at posting new announcements on there twitter handler
+
+> BONUS: If you ever get stuck on something, ask around it on Discord group, search it on stack overflow and if you still don't find it, message one of the active people in the Community, they are pretty helpful.
+
 ## Contribute
 
 Contributions welcome.
