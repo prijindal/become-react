@@ -30,11 +30,12 @@ Coming Soon
 
 ## Advanced concepts
 
-Topic            | Resource                                                                                                                                       | Description
-:--              | :--                                                                                                                                            | :--
-APIs             | [React official doc](https://facebook.github.io/react/docs)                                                                                    | Deeply understand React by reading the official API references and interfaces
-Full-stack app   | [Building Data-driven React Applications with Relay, GraphQL, and Flux](http://www.pluralsight.com/courses/react-apps-with-relay-graphql-flux) | A Step by step tutorial to get you started with the world around React
-React Native App | [Build Cross Platform React Native Apps with Exponent and Redux](http://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)    | Step by step tutorial to get you started with react native
+Topic               | Resource                                                                                                                                       | Description
+:--                 | :--                                                                                                                                            | :--
+APIs                | [React official doc](https://facebook.github.io/react/docs)                                                                                    | Deeply understand React by reading the official API references and interfaces
+Full-stack app      | [Building Data-driven React Applications with Relay, GraphQL, and Flux](http://www.pluralsight.com/courses/react-apps-with-relay-graphql-flux) | A Step by step tutorial to get you started with the world around React
+React Native App    | [Build Cross Platform React Native Apps with Exponent and Redux](http://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)    | Step by step tutorial to get you started with react native
+This Week in React  | [This Week in React](https://thisweekinreact.com/)                                                                                             | A weekly publication sharing interesting new projects and discussions with active members in the React community.
 
 ## Learn further
 
