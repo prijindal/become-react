@@ -35,7 +35,6 @@ Topic               | Resource                                                  
 APIs                | [React official doc](https://facebook.github.io/react/docs)                                                                                    | Deeply understand React by reading the official API references and interfaces
 Full-stack app      | [Building Data-driven React Applications with Relay, GraphQL, and Flux](http://www.pluralsight.com/courses/react-apps-with-relay-graphql-flux) | A Step by step tutorial to get you started with the world around React
 React Native App    | [Build Cross Platform React Native Apps with Exponent and Redux](http://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)    | Step by step tutorial to get you started with react native
-This Week in React  | [This Week in React](https://thisweekinreact.com/)                                                                                             | A weekly publication sharing interesting new projects and discussions with active members in the React community.
 
 ## Learn further
 
@@ -43,10 +42,11 @@ After follow along the path, you could go further by reading through the source 
 
 ## Community
 
-Topic            | Resource                                                  | Description
-:--              | :--                                                       | :--
-Discord Group    | [Reactiflux Discord](https://discord.gg/0ZcbPKXt5bZjGY5n) | React Discord group officialy supported by Facebook
-Twitter Channel  | [React @reactjs](https://twitter.com/reactjs)             | React Team is pretty frequent at posting new announcements on there twitter handler
+Topic               | Resource                                                   | Description
+:--                 | :--                                                        | :--
+Discord Group       | [Reactiflux Discord](https://discord.gg/0ZcbPKXt5bZjGY5n)  | React Discord group officialy supported by Facebook
+Twitter Channel     | [React @reactjs](https://twitter.com/reactjs)              | React Team is pretty frequent at posting new announcements on there twitter handler
+This Week in React  | [This Week in React](https://thisweekinreact.com/)         | A weekly publication sharing interesting new projects and discussions with active members in the React community.
 
 > BONUS: If you ever get stuck on something, ask around it on Discord group, search it on stack overflow and if you still don't find it, message one of the active people in the Community, they are pretty helpful.
 
